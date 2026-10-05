@@ -1,0 +1,6 @@
+{
+  "name": "Morningside Coffee Roasters & Café",
+  "description": "Artisanal neighborhood specialty coffeehouse, in-house micro-roastery, seasonal bakery, table reservations, and journal with brewing guides and origin stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
